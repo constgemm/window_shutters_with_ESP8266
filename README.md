@@ -1,4 +1,4 @@
 # window_shutter
 I bought a standard add-on shutter winder, opend it up and added a couple of wires to the controler buttons. When short-circuiting those wires the butten is "pressed". These cables are then wired through a relay which is controlled using an ESP 12E over a webserver.
-<img src="/images/shutter_andesp.png" width="50">
+<img src="/images/shutter_andesp.png" width="150">
 <!--[Semantic description of image](/images/shutter_andesp.png =50x)-->
