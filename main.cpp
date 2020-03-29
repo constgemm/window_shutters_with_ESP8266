@@ -47,7 +47,7 @@ Serial.begin(115200);
   // Print local IP address and start web server
   Serial.println("");
   Serial.println("WiFi connected.");
-  Serial.println("IP address: ");
+  Serial.println("IP address: "); // IP Address can be set constant in the Router settings. Go to your router, check how to access the settings --> DHCP --> reserve IP address
   Serial.println(WiFi.localIP());
   server.begin();
 }
