@@ -4,5 +4,5 @@ I bought a standard add-on shutter winder, opend it up and added a couple of wir
 <img src="/images/shutter_andesp.png" width="150">  
 
 ## TODO:
-[] include subscriber to Google Home
-[] add time window to set next up/down
+- [] include subscriber to Google Home
+- [] add time window to set next up/down
