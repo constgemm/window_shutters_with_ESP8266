@@ -1,5 +1,5 @@
 # window_shutter
-[instagram.com/unitech.yoco](instagram.com/unitech.yoco)
+[instagram.com/unitech.yoco](www.instagram.com/unitech.yoco)
 
 This guide aims to retrofit a manual window shutter to an electric belt winder fully integrated in your smart home.
 ## Content:
