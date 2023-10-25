@@ -6,7 +6,9 @@ I bought a standard add-on shutter winder, opend it up and added a couple of wir
 [instagram.com/unitech.yoco](www.instagram.com/unitech.yoco)
 
 
-![Project Image](/images/shutterandesp.jpg?raw=true)  <!-- Replace 'your_image_link_here' with the link to your project's image. -->
+<!-- ![Project Image](/images/shutterandesp.jpg?raw=true)   Replace 'your_image_link_here' with the link to your project's image. -->
+<img src="/images/shutterandesp.jpg" alt="drawing" width="300"/>
+
 
 ## Description
 
