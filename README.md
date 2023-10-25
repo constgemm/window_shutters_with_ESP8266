@@ -40,7 +40,3 @@ This is a beginner project, and feedback or contributions to improve the code or
 ## License
 
 This project is open-source and available to anyone. Use it, modify it, and distribute it as you see fit.
-
----
-
-**Note**: Make sure to replace 'your_image_link_here' with the actual link or path to your project's image. If you're hosting the image directly on GitHub, you can use relative paths.
