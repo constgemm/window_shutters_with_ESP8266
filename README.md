@@ -3,7 +3,7 @@
 This project aims to control window shutters using an ESP8266, allowing the shutters to move up or down through a simple web interface.
 I bought a standard add-on shutter winder, opend it up and added a couple of wires to the controler buttons. When short-circuiting those wires the butten is "pressed". These cables are then wired through a relay which is controlled using an ESP 12E over a webserver.  
 
-[instagram.com/unitech.yoco](www.instagram.com/unitech.yoco)
+[www.instagram.com/unitech.yoco](https://www.instagram.com/unitech.yoco)
 
 
 <!-- ![Project Image](/images/shutterandesp.jpg?raw=true)   Replace 'your_image_link_here' with the link to your project's image. -->
